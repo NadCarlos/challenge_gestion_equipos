@@ -1,0 +1,43 @@
+body{
+    background-size: cover;
+    background-color: #555;
+}
+
+div{
+    opacity: 0.8;
+    text-align: center;
+}
+
+button {
+    padding: 8px 15px;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: left;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    color: aliceblue;
+}
+
+li {
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 4px;
+    align-content: center;
+    text-align: center;
+    border:1px solid black;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+a{
+    margin-right: 25px;
+    background-color: #5555559f;
+}
